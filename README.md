@@ -5,8 +5,8 @@ but since the IIO module is now in tree, rebuilding GNURadio may be easier.
 To install, use
 
 ```
-brew tap xflash96/homebrew-gnuradio-with-iio
-brew install xflash96/homebrew-gnuradio-with-iio/gnuradio-with-iio
+brew tap xflash96/iio
+brew install xflash96/homebrew-iio/gnuradio-with-iio
 ```
 
 If conflicting with existing gnuradio installation:
